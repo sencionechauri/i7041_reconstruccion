@@ -4,3 +4,4 @@ dependencies:
   - numpy
   - matplotlib
   - tensorflow>2.0
+  - tensorflow-hub
