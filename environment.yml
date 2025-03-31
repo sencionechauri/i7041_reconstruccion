@@ -1,0 +1,6 @@
+name: environment
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - tensorflow=2.0
